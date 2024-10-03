@@ -1,3 +1,3 @@
-# system admin
+# Professional
 
-- this repository is where my projects involving system administration live
+- This repository is a collection of my professional projects.
